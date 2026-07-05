@@ -1,0 +1,20 @@
+# Секреты
+.env
+
+# Логи (включая аудит — локальны для машины)
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# ОС
+Thumbs.db
+.DS_Store
+
+# Electron
+node_modules/
+electron/node_modules/

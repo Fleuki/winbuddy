@@ -1,0 +1,14 @@
+{
+  "name": "winbuddy",
+  "version": "0.1.0",
+  "description": "winbuddy — разговорный ИИ-помощник для Windows",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Artemiy",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^31.0.0"
+  }
+}
